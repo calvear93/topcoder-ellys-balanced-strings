@@ -37,10 +37,9 @@ You should have [NodeJS](https://nodejs.org/) installed on your machine.
 
 ## Command ⚙️
 
-
-| Command               | Action             |
-| --------------------- | -------------------|
-| npm run start         | execute unit tests |
+| Command       | Action             |
+| ------------- | ------------------ |
+| npm run start | execute unit tests |
 
 ---
 
